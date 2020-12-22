@@ -1,0 +1,23 @@
+{
+  "name": "request-api-rick-and-morty",
+  "version": "1.0.0",
+  "description": "request-api-rick-and-morty",
+  "main": "callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxsKramer/request-api-rick-and-morty.git"
+  },
+  "keywords": [],
+  "author": "Alexander Kramer <kramer.axs1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AxsKramer/request-api-rick-and-morty/issues"
+  },
+  "homepage": "https://github.com/AxsKramer/request-api-rick-and-morty#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
